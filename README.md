@@ -12,8 +12,7 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
-Config endpoint in http-common.js 
 ```
-
+Config endpoint in http-common.js 
 
 
