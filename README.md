@@ -13,6 +13,10 @@ npm run serve
 ```
 npm run build
 ```
-Config endpoint in http-common.js 
-
-
+Config socketEndpoint, apiEndpoint endpoint to config.ts
+```
+export const config = {
+    socketEndpoint: 'yourhost',
+    apiEndpoint:"yourhost"
+  };
+```
